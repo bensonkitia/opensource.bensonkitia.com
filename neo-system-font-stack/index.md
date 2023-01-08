@@ -1,6 +1,8 @@
 # Neo-System Font Stack
 
-A better system font stack.
+A better, opinionated system font stack by [Benson Kitia](https://bensonkitia.com/).
+
+[GitHub](https://github.com/bensonkitia/opensource.bensonkitia.com/blob/main/neo-system-font-stack/index.md) (PRs welcome!)
 
 ## Basic neo-system font stacks
 
